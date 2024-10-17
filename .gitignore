@@ -6,6 +6,7 @@ dist/
 build/
 
 # Ignore environment-specific files
+.env
 .env.local
 .env.*.local
 
